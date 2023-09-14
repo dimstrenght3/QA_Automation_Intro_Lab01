@@ -1,1 +1,3 @@
 # QA_Automation_Intro_Lab01
+
+here are QA_Automation_Lab01_exerrcizes
